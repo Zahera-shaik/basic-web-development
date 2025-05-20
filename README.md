@@ -1,2 +1,2 @@
-# basic-web-development
+# ApexPlanet internshipproject
 my basic web page 
